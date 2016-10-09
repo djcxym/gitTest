@@ -2,3 +2,5 @@ hello
 creating a new branch is quick And simple
 dev branch
 reject myself
+new dev branch
+reject test
